@@ -60,3 +60,9 @@ My career goal is to progress into a Test Automation Engineer role by June 2027.
 - Learn CI/CD fundamentals.
 - Build a demonstrable automation testing portfolio.
 
+## The things I have learned about Git today
+
+- I have learned to review and commit the changes made.
+- The learned how to inspect the changes made with git diff command. It is important before committing to review the changes.
+- Staged the file with git add command, then commit, pulled to my PullRequest then Merged to my main branch.
+- Faced few challenges, just to mention one by creating umwanted file accidentaly and managed to confirm which one it is with Get-ChildItem -Force command. Then used Get-ChildItem -LiteralPath branch-name |Format -List fullName PISContainer to verify if it is correct file. Then used Remove-Item -LiteralPath branch-name to remove the file.
