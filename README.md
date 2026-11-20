@@ -1,7 +1,7 @@
 # Test-Analyst-Portfolio
+## Dev A update the project description
 
-Welcome to my professional Test Analyst portfolio!
-
+Welcome to my professional Test Analyst portfolio. The portfolio is about my Test Automation Engineer Journey.
 ## About Me
 
 I am a Test Analyst with experience in manal software testing, Agile environments, SQL validation, test case design and defect managemet.
@@ -32,7 +32,7 @@ I am currently expanding my technical skills in API testing and testing automati
 - pytest.
 - API Test Automation.
 
-## Portfolio Prijects
+## Portfolio Projects - Dev A fixed the spelling of project
 
 Projects and practical testing examples will be added as I develop my skills.
 
