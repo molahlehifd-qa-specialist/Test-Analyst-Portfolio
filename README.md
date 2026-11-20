@@ -1,6 +1,8 @@
 # Test-Analyst-Portfolio
 
-Welcome to my professional Test Analyst portfolio!
+## Dev A update the project description
+
+Welcome to my professional Test Analyst portfolio.
 
 ## About Me
 
@@ -32,7 +34,7 @@ I am currently expanding my technical skills in API testing and testing automati
 - pytest.
 - API Test Automation.
 
-## Portfolio Prijects
+## Portfolio Projects - Dev A fixed the spelling of project
 
 Projects and practical testing examples will be added as I develop my skills.
 
