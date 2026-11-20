@@ -2,6 +2,10 @@
 ## Dev A update the project description
 
 Welcome to my professional Test Analyst portfolio. The portfolio is about my Test Automation Engineer Journey.
+## Dev A update the project description
+
+Welcome to my professional Test Analyst portfolio.
+
 ## About Me
 
 I am a Test Analyst with experience in manal software testing, Agile environments, SQL validation, test case design and defect managemet.
