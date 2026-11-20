@@ -1,5 +1,7 @@
 # Test-Analyst-Portfolio
+## Dev A update the project description
 
+Welcome to my professional Test Analyst portfolio. The portfolio is about my Test Automation Engineer Journey.
 ## Dev A update the project description
 
 Welcome to my professional Test Analyst portfolio.
