@@ -1,7 +1,7 @@
 # Test-Analyst-Portfolio
 ## Dev A update the project description
 ## Dev B updated the "welcome..." with the "journey.." statement.
-## Removing duplicated Dev A changes.
+## Removing duplicated Dev A changes. 
 
 Welcome to my professional Test Analyst portfolio. The portfolio is about my Test Automation Engineer Journey.
 
